@@ -27,7 +27,7 @@ function App() {
 
       <Wrapper>
           <h1>Hii jitu</h1>
-      </Wrapper> */}
+      </Wrapper> */}     
 
       
 
